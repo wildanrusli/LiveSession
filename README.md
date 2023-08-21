@@ -1,3 +1,4 @@
 # LiveSession
-Soal-soal :
-1. Pengertian Github
+
+Jawaban :
+1. Tools for management versioning control system.
